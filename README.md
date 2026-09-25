@@ -19,6 +19,7 @@ Projetos com IA (DIO)
 
 Podcast com voz gerada por IA	Áudio criado no ElevenLabs a partir de um texto de podcast.
 https://github.com/SantosGClara/Projeto-Prompt-voz-IA
+
 E-book em PDF desenvolvido com apoio de IA.
 https://github.com/SantosGClara/projeto-ebook-
 
@@ -26,6 +27,7 @@ Arquitetura com NotebookLM	Compêndio, vídeo e mapa mental sobre mestres da arq
 https://github.com/SantosGClara/notebookLM
 
 Análise de dados
+
 Projeto	Sobre	Código
 Painel em Power BI	Painel desenvolvido durante o curso de Power BI.
 https://github.com/SantosGClara/powerBi
