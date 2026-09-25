@@ -13,6 +13,7 @@ Pinga	App iOS de gestão de tarefas com modos Life e Work: você atribui a taref
 https://github.com/SantosGClara/pingacase
 
 Traço	Marketplace mobile que conecta clientes e arquitetos. Pesquisa com 18 pessoas, protótipo de 7 telas, decisões de design e modelo de negócio.
+
 https://github.com/SantosGClara/traco-casestudy
 
 Projetos com IA (DIO)
@@ -21,6 +22,7 @@ Podcast com voz gerada por IA	Áudio criado no ElevenLabs a partir de um texto d
 https://github.com/SantosGClara/Projeto-Prompt-voz-IA
 
 E-book em PDF desenvolvido com apoio de IA.
+
 https://github.com/SantosGClara/projeto-ebook-
 
 Arquitetura com NotebookLM	Compêndio, vídeo e mapa mental sobre mestres da arquitetura moderna e contemporânea.
